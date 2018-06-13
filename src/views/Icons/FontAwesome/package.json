@@ -2,5 +2,5 @@
   "name": "FontAwesome",
   "version": "0.0.0",
   "private": true,
-  "main": "./FontAwesome.js"
+  "main": "./FontAwesome.tsx"
 }

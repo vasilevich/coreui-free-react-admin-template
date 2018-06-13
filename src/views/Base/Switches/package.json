@@ -2,5 +2,5 @@
   "name": "Switches",
   "version": "0.0.0",
   "private": true,
-  "main": "./Switches.js"
+  "main": "./Switches.tsx"
 }

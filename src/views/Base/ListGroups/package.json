@@ -2,5 +2,5 @@
   "name": "ListGroups",
   "version": "0.0.0",
   "private": true,
-  "main": "./ListGroups.js"
+  "main": "./ListGroups.tsx"
 }

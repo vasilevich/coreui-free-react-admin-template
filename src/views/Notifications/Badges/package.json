@@ -2,5 +2,5 @@
   "name": "Badges",
   "version": "0.0.0",
   "private": true,
-  "main": "./Badges.js"
+  "main": "./Badges.tsx"
 }

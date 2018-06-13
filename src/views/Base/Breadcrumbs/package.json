@@ -2,5 +2,5 @@
   "name": "Breadcrumbs",
   "version": "0.0.0",
   "private": true,
-  "main": "./Breadcrumbs.js"
+  "main": "./Breadcrumbs.tsx"
 }
