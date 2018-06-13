@@ -1,3 +1,11 @@
+# TYPESCRIPT CONVERSION
+The whole intention of this fork is the conversion of all the template examples into typescript format for easier adoption by people like me.
+This template has been fully converted into TYPESCRIPT, with all its files, building scripts and addons.
+I hope in doing so, i will save the next person a few hours in their effort to use this template with their typescript based react project.
+
+
+Original project:
+
 # CoreUI Free React Admin Template v2 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20React%20Admin%20Template%20&url=https://coreui.io/react/&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
 Please help us on [Product Hunt](https://www.producthunt.com/posts/coreui-open-source-bootstrap-4-admin-template-with-angular-2-react-js-vue-js-support) and [Designer News](https://www.designernews.co/stories/81127). Thanks in advance!
@@ -54,13 +62,13 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-react-admin-template.git my-project
+$ git clone https://github.com/vasilevich/coreui-free-react-admin-template.git my-project
 
 # go into app's directory
 $ cd my-project
 
 # install app's dependencies
-$ npm install
+$ yarn install
 ```
 
 ## Create React App
